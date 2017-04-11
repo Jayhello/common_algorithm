@@ -6,7 +6,6 @@ def ret_swap(v1, v2):
 
 
 def bubble_sort(lst):
-
     LEN = len(lst)
     for i in range(1, LEN):
         for j in range(i, LEN):
